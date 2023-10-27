@@ -60,6 +60,10 @@ td {
     white-space: nowrap;
 }
 
+img {
+    width: 100%;
+}
+
 /*
  * SEARCH
  */
